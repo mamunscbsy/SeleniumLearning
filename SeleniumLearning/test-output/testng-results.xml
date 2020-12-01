@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="135224" started-at="2020-10-24T23:24:02 CDT" finished-at="2020-10-24T23:26:18 CDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="135224" started-at="2020-10-24T23:24:02 CDT" finished-at="2020-10-24T23:26:18 CDT">
+      <class name="inteData_ExceltestCase.CreateLead">
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:inteData_ExceltestCase.CreateLead@396f6598]" name="login" is-config="true" duration-ms="18723" started-at="2020-10-24T23:24:03 CDT" finished-at="2020-10-24T23:24:22 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DemoSalesManager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="createLead(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:inteData_ExceltestCase.CreateLead@396f6598]" name="createLead" duration-ms="13187" started-at="2020-10-24T23:24:22 CDT" data-provider="getData" finished-at="2020-10-24T23:24:35 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CTS]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ashraf]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Wadud]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLead -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:inteData_ExceltestCase.CreateLead@396f6598]" name="closeBrowser" is-config="true" duration-ms="4528" started-at="2020-10-24T23:24:35 CDT" finished-at="2020-10-24T23:24:40 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:inteData_ExceltestCase.CreateLead@396f6598]" name="login" is-config="true" duration-ms="16728" started-at="2020-10-24T23:24:40 CDT" finished-at="2020-10-24T23:24:57 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DemoSalesManager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="createLead(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:inteData_ExceltestCase.CreateLead@396f6598]" name="createLead" duration-ms="13166" started-at="2020-10-24T23:24:57 CDT" data-provider="getData" finished-at="2020-10-24T23:25:10 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TCS]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Touhid]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Chy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLead -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:inteData_ExceltestCase.CreateLead@396f6598]" name="closeBrowser" is-config="true" duration-ms="4204" started-at="2020-10-24T23:25:10 CDT" finished-at="2020-10-24T23:25:14 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:inteData_ExceltestCase.CreateLead@396f6598]" name="login" is-config="true" duration-ms="16190" started-at="2020-10-24T23:25:14 CDT" finished-at="2020-10-24T23:25:30 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DemoSalesManager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="createLead(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:inteData_ExceltestCase.CreateLead@396f6598]" name="createLead" duration-ms="13642" started-at="2020-10-24T23:25:30 CDT" data-provider="getData" finished-at="2020-10-24T23:25:44 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ABC]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Zia]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Islam]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLead -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:inteData_ExceltestCase.CreateLead@396f6598]" name="closeBrowser" is-config="true" duration-ms="296" started-at="2020-10-24T23:25:44 CDT" finished-at="2020-10-24T23:25:44 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:inteData_ExceltestCase.CreateLead@396f6598]" name="login" is-config="true" duration-ms="15647" started-at="2020-10-24T23:25:44 CDT" finished-at="2020-10-24T23:26:00 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DemoSalesManager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="createLead(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:inteData_ExceltestCase.CreateLead@396f6598]" name="createLead" duration-ms="13501" started-at="2020-10-24T23:26:00 CDT" data-provider="getData" finished-at="2020-10-24T23:26:13 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[XYZ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shah]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MJ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLead -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:inteData_ExceltestCase.CreateLead@396f6598]" name="closeBrowser" is-config="true" duration-ms="4272" started-at="2020-10-24T23:26:13 CDT" finished-at="2020-10-24T23:26:18 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- inteData_ExceltestCase.CreateLead -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
